@@ -8,6 +8,6 @@ Team:
 Stock prices:
 
 - Disney
-- Warner Bros.
+- Other
 
 
