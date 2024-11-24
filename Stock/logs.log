@@ -1,0 +1,341 @@
+2024-11-24 16:32:44,453:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-11-24 16:32:44,453:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-11-24 16:32:44,453:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-11-24 16:32:44,454:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-11-24 16:38:56,652:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2773733435.py:23: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['Date'] = pd.to_datetime(disney_data['Date'])
+
+2024-11-24 16:38:56,676:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2773733435.py:24: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['Date'] = pd.to_datetime(warner_data['Date'])
+
+2024-11-24 16:38:56,740:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2773733435.py:35: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:38:56,746:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2773733435.py:36: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:38:56,751:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2773733435.py:35: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:38:56,753:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2773733435.py:36: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:43:52,962:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\453729884.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['Date'] = pd.to_datetime(disney_data['Date'])
+
+2024-11-24 16:43:52,988:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\453729884.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['Date'] = pd.to_datetime(warner_data['Date'])
+
+2024-11-24 16:43:53,065:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\453729884.py:37: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:43:53,069:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\453729884.py:38: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:43:53,073:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\453729884.py:37: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:43:53,074:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\453729884.py:38: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:46:52,130:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3154517246.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['Date'] = pd.to_datetime(disney_data['Date'])
+
+2024-11-24 16:46:52,153:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3154517246.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['Date'] = pd.to_datetime(warner_data['Date'])
+
+2024-11-24 16:46:52,215:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3154517246.py:37: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:46:52,220:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3154517246.py:38: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:46:52,224:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3154517246.py:37: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:46:52,225:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3154517246.py:38: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:49:11,769:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3154517246.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['Date'] = pd.to_datetime(disney_data['Date'])
+
+2024-11-24 16:49:11,796:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3154517246.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['Date'] = pd.to_datetime(warner_data['Date'])
+
+2024-11-24 16:49:11,856:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3154517246.py:37: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:49:11,863:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3154517246.py:38: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:49:11,867:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3154517246.py:37: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:49:11,868:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3154517246.py:38: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:53:16,654:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\435327385.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['date'] = pd.to_datetime(disney_data['date'], errors='coerce')
+
+2024-11-24 16:53:16,677:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\435327385.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['date'] = pd.to_datetime(warner_data['date'], errors='coerce')
+
+2024-11-24 16:53:16,735:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\435327385.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:53:16,739:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\435327385.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:53:16,742:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\435327385.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:53:16,744:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\435327385.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:54:59,464:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2963602818.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['Date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 16:54:59,495:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2963602818.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['Date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 16:54:59,567:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2963602818.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:54:59,571:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2963602818.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:54:59,575:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2963602818.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:54:59,576:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2963602818.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:55:20,253:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3143977388.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['Date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 16:55:20,278:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3143977388.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['Date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 16:55:20,332:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3143977388.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:55:20,336:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3143977388.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:55:20,339:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3143977388.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:55:20,340:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3143977388.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:55:54,461:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2829920355.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 16:55:54,484:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2829920355.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 16:55:54,549:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2829920355.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:55:54,554:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2829920355.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 16:55:54,564:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2829920355.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 16:55:54,566:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2829920355.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:00:53,273:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2829920355.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 17:00:53,312:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2829920355.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 17:00:53,393:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2829920355.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:00:53,398:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2829920355.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:00:53,410:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2829920355.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:00:53,413:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\2829920355.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:02:50,252:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3158061572.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['Date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 17:02:50,295:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3158061572.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['Date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 17:02:50,389:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3158061572.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:02:50,398:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3158061572.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:02:50,405:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3158061572.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:02:50,407:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\3158061572.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:05:38,231:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1863093096.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['Date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 17:05:38,263:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1863093096.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['Date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 17:05:38,335:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1863093096.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:05:38,340:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1863093096.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:05:38,343:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1863093096.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:05:38,345:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1863093096.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:09:30,463:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1059427804.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['Date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 17:09:30,487:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1059427804.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['Date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 17:09:30,553:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1059427804.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:09:30,556:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1059427804.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:09:30,562:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1059427804.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:09:30,564:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1059427804.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:11:27,528:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1059427804.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['Date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 17:11:27,553:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1059427804.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['Date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 17:11:27,615:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1059427804.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:11:27,618:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1059427804.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:11:27,621:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1059427804.py:43: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:11:27,623:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1059427804.py:44: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:14:01,573:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1126854077.py:25: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 17:14:01,611:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1126854077.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 17:14:01,741:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1126854077.py:57: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:14:01,744:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1126854077.py:58: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:14:15,478:WARNING:c:\Users\mikol\OneDrive\Pulpit\Cloud AI\.venv\lib\site-packages\keras\src\layers\core\dense.py:87: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(activity_regularizer=activity_regularizer, **kwargs)
+
+2024-11-24 17:19:28,929:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\736187958.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 17:19:28,953:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\736187958.py:27: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 17:19:29,093:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\736187958.py:58: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:19:29,094:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\736187958.py:59: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 17:19:42,162:WARNING:c:\Users\mikol\OneDrive\Pulpit\Cloud AI\.venv\lib\site-packages\keras\src\layers\core\dense.py:87: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(activity_regularizer=activity_regularizer, **kwargs)
+
+2024-11-24 17:23:01,762:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\522782004.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 17:23:01,798:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\522782004.py:27: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 17:23:01,966:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\522782004.py:58: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 17:23:01,968:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\522782004.py:59: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 19:32:19,271:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\522782004.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 19:32:19,619:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\522782004.py:27: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 19:32:19,786:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\522782004.py:58: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 19:32:19,787:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\522782004.py:59: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 19:36:58,468:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1703618794.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 19:36:58,496:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1703618794.py:27: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 19:36:58,656:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1703618794.py:58: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 19:36:58,657:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1703618794.py:59: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 19:41:24,719:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\4248805916.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 19:41:24,747:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\4248805916.py:27: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 19:41:24,908:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\4248805916.py:58: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 19:41:24,909:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\4248805916.py:59: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 19:41:39,454:WARNING:c:\Users\mikol\OneDrive\Pulpit\Cloud AI\.venv\lib\site-packages\keras\src\layers\core\dense.py:87: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(activity_regularizer=activity_regularizer, **kwargs)
+
+2024-11-24 19:48:27,039:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\522782004.py:26: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  disney_data['date'] = pd.to_datetime(disney_data['Date'], errors='coerce')
+
+2024-11-24 19:48:27,067:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\522782004.py:27: FutureWarning: In a future version of pandas, parsing datetimes with mixed time zones will raise an error unless `utc=True`. Please specify `utc=True` to opt in to the new behaviour and silence this warning. To create a `Series` with mixed offsets and `object` dtype, please use `apply` and `datetime.datetime.strptime`
+  warner_data['date'] = pd.to_datetime(warner_data['Date'], errors='coerce')
+
+2024-11-24 19:48:27,227:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\522782004.py:58: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 19:48:27,228:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\522782004.py:59: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
+2024-11-24 19:50:15,178:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1716498802.py:53: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='ffill', inplace=True)
+
+2024-11-24 19:50:15,179:WARNING:C:\Users\mikol\AppData\Local\Temp\ipykernel_4408\1716498802.py:54: FutureWarning: DataFrame.fillna with 'method' is deprecated and will raise in a future version. Use obj.ffill() or obj.bfill() instead.
+  df.fillna(method='bfill', inplace=True)
+
