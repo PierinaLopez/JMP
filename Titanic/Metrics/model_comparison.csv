@@ -1,0 +1,3 @@
+Model,Accuracy
+Logistic Regression,0.8008998875140607
+XGBoost,0.9505061867266592
